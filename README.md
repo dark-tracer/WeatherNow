@@ -4,7 +4,7 @@ WeatherNow is a web application that displays real-time weather updates for a us
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-now.git`
+1. Clone the repository: `git clone https://github.com/dark-tracer/weather-now.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
